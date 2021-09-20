@@ -1,0 +1,6 @@
+[submodule "catkin_ws/src/drake_hydra_interact"]
+	path = catkin_ws/src/drake_hydra_interact
+	url = https://github.com/gizatt/drake_hydra_interact
+[submodule "catkin_ws/src/razer_hydra"]
+	path = catkin_ws/src/razer_hydra
+	url = https://github.com/aleeper/razer_hydra
