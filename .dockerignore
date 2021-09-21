@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile
+README.md
+LICENSE
+docker_build.sh
+docker_run.sh
